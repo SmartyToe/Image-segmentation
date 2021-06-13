@@ -1,2 +1,2 @@
-# Image-sgementaino
+# Image-segmentation
 Image segmentation
